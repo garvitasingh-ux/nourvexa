@@ -1,0 +1,6 @@
+{
+  "name": "Nourvexa",
+  "description": "Personalized Diet & Lifestyle Planning Application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
