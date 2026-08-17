@@ -28,7 +28,7 @@ fun SplashScreen(onSplashComplete: () -> Unit) {
     ) {
         // Fallback to placeholder if icon doesn't exist yet, but we will have ic_launcher_foreground soon or logo
         Image(
-            painter = painterResource(id = R.drawable.nv1),
+            painter = painterResource(id = R.drawable.logo),
             contentDescription = "Nourvexa Logo"
             
         )

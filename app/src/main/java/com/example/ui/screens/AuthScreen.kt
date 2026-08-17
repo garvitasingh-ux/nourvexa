@@ -53,7 +53,7 @@ fun AuthScreen(
             verticalArrangement = Arrangement.Center
         ) {
             Image(
-                painter = painterResource(id = R.drawable.nv1),
+                painter = painterResource(id = R.drawable.logo),
                 contentDescription = "Nourvexa Logo"
                 
             )
