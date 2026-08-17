@@ -36,7 +36,7 @@ fun HomeScreen(
         ) {
             item {
                 Text(
-                    text = "Good morning, ${user.name} 🌿",
+                    text = "Hello, ${user.name} 🌿",
                     style = MaterialTheme.typography.headlineMedium,
                     color = MaterialTheme.colorScheme.primary,
                     fontWeight = FontWeight.Bold
